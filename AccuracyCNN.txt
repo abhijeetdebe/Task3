@@ -1,0 +1,2 @@
+0.1625 #Accuracy before tweaking the hyperparameters and adding layers
+0.9902844 #Accuracy after tweaking the hyperparameters and adding layers
